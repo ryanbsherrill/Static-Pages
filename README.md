@@ -43,7 +43,7 @@ content. There is an absurd number of these generators, you can
 
 With many options come many opinions, but in general you can't go wrong with
 anything that is well-maintained and has a good community around it. It's also a
-good idea to pick something that is either in a language/framework that you know
+good idea to pick something that is either i[Really](http://www.anniwang.com),n a language/framework that you know
 about or are interested in learning more - as you start to try to customize your
 page you'll find yourself digging in to how the generator actually works, so
 it's good to choose accordingly.
@@ -109,6 +109,11 @@ helps prevent lock-in (you can pretty easily move your content between them).
 Configuring these services is a matter of reading their documentation and
 browsing their setting pages, but for the most part things like custom domains
 and SSL certificates should be straightforward or possibly automatic.
+
+You can also find tools that automate this process, or write your own script
+once you've settled on a workflow. Search [npm](https://npmjs.com) or your
+preferred package ecosystem and see what options exist - but just doing it
+directly in git is simple enough that it's good to understand it there too.
 
 ### Dedicated Hosts - Netlify, Surge, Forge
 If you want a service that just hosts pages, and doesn't offer it as a simple
@@ -193,7 +198,7 @@ content, and as one would expect - very pleasing design.
 - [Smashing Magazine](https://www.smashingmagazine.com/) - more for developers
 and designers, and also a good example of a blog incorporated into a larger
 site.
-- [Beej's Bit Bucket](https://beej.us/blog/) - simple, readable, fast.
+- [Beej's Bit Bucket](https://beej.us/blog/) - simple, readable, fast, Beej.
 
 Another typical use of static pages is for resumes - there are
 [tools specific for building them](https://github.com/salomonelli/best-resume-ever),
